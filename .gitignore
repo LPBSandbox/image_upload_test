@@ -1,0 +1,7 @@
+/node_modules
+/uploads
+/public
+/.idea
+/typings
+/public/js/
+npm-debug.log
